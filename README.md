@@ -2,9 +2,4 @@
 # Demo
 
 - Learing to use GitHub;
-- Git pull 
-- Git status
-- Git log
-- Git commit 
-
-- todos esses s√o comandos do git...usados para criar reposit√rio no Github;
+- I'm like to learning how to use the GitHub, is very nice!
